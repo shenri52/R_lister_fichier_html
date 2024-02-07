@@ -1,7 +1,7 @@
 # Script R : lister_fichier_html
 
-Ce script est une version modifier du script R lister_dossier.
-Il permet de lister le contenu d'une arborescence de dossiers et d'exporter le résultat sous forme d'un tableau html pour faciliter la recherche de fichier.
+Ce script permet de lister le contenu d'une arborescence de dossiers et d'exporter le résultat sous forme d'un tableau html pour faciliter la recherche de fichier.
+Il s'appuie sur une partie du script R lister_dossier.
 
 ## Descriptif du contenu
 
