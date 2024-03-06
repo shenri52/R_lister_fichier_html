@@ -80,7 +80,8 @@ tab_html <- tab_html %>%
                                                      searchPanes = list(collapse = "Filtrer",
                                                                         clearMessage = "Effacer les filtres",
                                                                         collapseMessage = "Réduire tout",
-                                                                        showMessage = "Afficher tout")
+                                                                        showMessage = "Afficher tout",
+                                                                        title = "Filtre(s) actif(s) - %d")
                                                      ),
                                      # Couleur entête
                                      initComplete = JS(
